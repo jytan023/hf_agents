@@ -8,8 +8,9 @@ dependencies = [
     "helium>=5.1.2",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
     "selenium>=4.38.0",
-    "smolagents[litellm]>=1.22.0",
+    "smolagents[all,litellm,transformers]>=1.22.0",
     "transformers>=4.57.1",
 ]
 
